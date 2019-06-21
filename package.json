@@ -1,0 +1,24 @@
+{
+  "homepage": "https://bilif.github.io/asset-app/",
+  "name": "asset-app",
+  "version": "1.0.0",
+  "description": "asset-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilif/gh-pages-asset-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilif/gh-pages-asset-app/issues"
+  },
+  "homepage": "https://github.com/Bilif/gh-pages-asset-app#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
